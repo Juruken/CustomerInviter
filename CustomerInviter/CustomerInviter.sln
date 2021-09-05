@@ -5,11 +5,11 @@ VisualStudioVersion = 16.0.31605.320
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomerInviter.Core", "CustomerInviter.Core\CustomerInviter.Core.csproj", "{18DE1B83-A590-4368-A542-E860CAAE3F03}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomerInvite.Core.Tests", "CustomerInvite.Core.Tests\CustomerInvite.Core.Tests.csproj", "{E41FC571-9764-4D8E-A7C5-FB514F1EA66C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomerInviter.Core.Tests", "CustomerInviter.Core.Tests\CustomerInviter.Core.Tests.csproj", "{E41FC571-9764-4D8E-A7C5-FB514F1EA66C}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomerInviter.Api.Service", "CustomerInviter.Api.Service\CustomerInviter.Api.Service.csproj", "{BFAA4707-C45A-4B41-9949-F07F7BB6D594}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomerInvite.Api.Service.Tests", "CustomerInvite.Api.Service.Tests\CustomerInvite.Api.Service.Tests.csproj", "{13433663-F3FD-4E70-B7BB-30FF10812FDE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomerInviter.Api.Service.Tests", "CustomerInviter.Api.Service.Tests\CustomerInviter.Api.Service.Tests.csproj", "{13433663-F3FD-4E70-B7BB-30FF10812FDE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

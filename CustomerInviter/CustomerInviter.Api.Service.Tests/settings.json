@@ -1,4 +1,5 @@
 ﻿{
+  "mongo": "",
   "seqApplicationUrl": "http://localhost:5341",
   "seqApplicationKey": "",
   "Latitude": "53.339428",
